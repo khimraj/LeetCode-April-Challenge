@@ -10,7 +10,7 @@ You must do this in-place without making a copy of the array.
 Minimize the total number of operations. */
 
 
-/* Approach - use two iterators*/
+/* Approach - use two iterators */
 
 // Time Complexity - O(n), where n is length of nums
 // Space Complexity - O(1)
